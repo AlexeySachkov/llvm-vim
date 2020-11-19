@@ -1,7 +1,7 @@
 # llvm-vim
 
 Collection of settings for the vim editor to work on llvm `*.ll` and tablegen
-`*.td` files. It comes with [filetype detection rules] (ftdetect/),
+`*.td` files. It comes with [filetype detection rules](ftdetect/),
 [syntax highlighting](syntax), some
 [minimal sensible default settings](ftplugin/) and
 [indentation plugins](indent/).
@@ -13,7 +13,7 @@ package manager or if you prefer create symlinks to the files here.
 is made to allow installation of these files using vim plugin package managers.
 
 Files in this repo correspond to their original counterparts at revision
-llvm/llvm-project@9a24488c.
+llvm/llvm-project@b7a09de10ffc59dec78a7d4b39bc78d07d3110eb.
 
 ## Contribution
 
